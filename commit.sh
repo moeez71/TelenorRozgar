@@ -1,0 +1,2 @@
+bzr qadd
+bzr qcommit
